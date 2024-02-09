@@ -23,10 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-|     Desktop Design  |  
 ![Image 1](./images/screenshot.png)
-|  Mobile Design  |
-![Image 2](./images/screenshotMobile.jpg) 
 
 ### Links
 

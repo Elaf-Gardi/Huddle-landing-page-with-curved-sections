@@ -23,9 +23,10 @@ Users should be able to:
 
 ### Screenshot
 
-| ![Image 1](./images/screenshot.png) | ![Image 2](./images/screenshotMobile.jpg) |
-|:-----------------------:|:-----------------------:|
-|     Desktop Design  |    Mobile Design  |
+|     Desktop Design  |  
+![Image 1](./images/screenshot.png)
+|  Mobile Design  |
+![Image 2](./images/screenshotMobile.jpg) 
 
 ### Links
 
